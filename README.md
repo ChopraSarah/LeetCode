@@ -1,3 +1,3 @@
 # LeetCode
 
-I'm trying to blind 75 questions
+Blind 75 questions
