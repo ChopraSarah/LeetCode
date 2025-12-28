@@ -29,3 +29,16 @@ class Solution:
             second = temp
             #print(i)
         return(second)
+
+
+# class Solution:
+#     def climbStairs(self, n: int) -> int:
+#         one, two =1,1
+#         i = 1
+#         while(i<n):
+#             temp = one
+#             one = two
+#             two = temp + two
+#             i = i + 1
+        
+#         return(two)
